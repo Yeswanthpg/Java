@@ -1,0 +1,4 @@
+Name 	 Gender 	 Income
+Yeswanth	Male		250000
+Name 	 Gender 	 Income
+Nandhika	Female		754999
